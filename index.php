@@ -8,6 +8,13 @@
 <body>
     <h1>Título do meu site :)</h1>
 
-    <p>Olha aqui que legal!</p>
+    <p>Olha aqui que legal!</p> 
+
+    <?php
+
+        $nome = "Janaina";
+    ?>
+
+    <p><?=$nome?></p>
 </body>
 </html>
